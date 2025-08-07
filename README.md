@@ -77,5 +77,5 @@ To run the code, use the Anaconda Prompt.
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 Developed by Raghad Alrashidi
