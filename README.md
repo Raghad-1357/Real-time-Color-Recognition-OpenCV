@@ -84,7 +84,3 @@ To run the code, use the Anaconda Prompt. This method ensures that the script ru
 - The recognized color name is then displayed on the screen.
 
 To exit the application, simply press the q key on your keyboard while the webcam window is active.
-
-## License
-
-This project is licensed under the MIT License.
