@@ -2,6 +2,8 @@
 
 This project is a simple yet effective application that uses Python and the OpenCV library to perform real-time color recognition from a webcam feed. The program identifies the color of an object placed in the center of the camera's view and displays its name.
 
+The assignment was completed as part of a training task for Smart Methods.
+
 ---
 
 ## 🚀 Features
