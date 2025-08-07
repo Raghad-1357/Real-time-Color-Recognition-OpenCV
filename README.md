@@ -37,7 +37,7 @@ Before you begin, you need to have the following software installed on your syst
 
 1.  Open VS Code.
 2.  Go to File -> Open Folder... and select an empty folder for your project.
-3.  Create a new file named webcam_color_recognition.py and copy the project code into it.
+3.  Create a new file named color_recognition.py and copy the project code into it.
 
 ### ▶️ Step 3: Run the Application
 
