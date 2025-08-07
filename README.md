@@ -2,16 +2,22 @@
 
 This project is a simple yet effective application that uses Python and the OpenCV library to perform real-time color recognition from a webcam feed. The program identifies the color of an object placed in the center of the camera's view and displays its name.
 
+---
+
 ## 🚀 Features
 - Real-time video stream from a webcam.
 - Identifies a wide range of colors, including vibrant colors (Red, Green, Blue) and neutral shades (White, Black, Grey).
 - Displays the recognized color name on the video feed.
 - Simple and easy to set up.
 
+---
+
 ## 🛠️ Prerequisites
 Before you begin, you need to have the following software installed on your system:
 - Anaconda: A powerful platform for data science and machine learning, which includes Python and a package manager (conda).
 - Visual Studio Code (VS Code): A lightweight but powerful source code editor.
+
+---
 
 ## ⚙️ Installation & Setup
 
@@ -56,9 +62,11 @@ To run the code, use the Anaconda Prompt.
 3.  Execute the script using the python command.
 
    
-    python webcam_color_recognition.py
+    python color_recognition.py
     
     A new window will open showing your webcam feed. To exit, press the q key.
+
+---
 
 ## 🧠 How It Works
 - The program captures video frames from your webcam using cv2.VideoCapture().
@@ -67,5 +75,7 @@ To run the code, use the Anaconda Prompt.
 - The get_color_name function compares this color's HSV (Hue, Saturation, Value) range to predefined ranges for a wide variety of colors.
 - The recognized color name is then displayed on the screen.
 
-## 📜 License
-This project is licensed under the MIT License.
+---
+
+👩‍💻 Author
+Developed by Raghad Alrashidi
